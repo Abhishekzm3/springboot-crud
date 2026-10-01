@@ -13,7 +13,6 @@ public class CrudApplication {
 		// This change is only on feature/test
 		// 3rd line
 		// this 4th line is for PR test purpose
-		System.out.println("This code has a bug");
 	}
 
 }
